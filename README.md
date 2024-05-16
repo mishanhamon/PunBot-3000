@@ -2,7 +2,7 @@
 # PunBot-3000
 PunBot 3000 is a retrieval-based chatbot that creates puns on a specified topic and is integrated with Telegram.  
 
-This chatbot was created as a capstone project for the "Build Chatbots with Python" skillpath at Codecademy (Codecademy user name: @mishanhamon). The PunBot.ipynb file contains the main elements of the chatbot, while the user-functions.py contains additional functions. note that you would need a telegram chatbot token to use the script. 
+This chatbot was created as a capstone project for the "Build Chatbots with Python" skillpath at Codecademy (Codecademy user name: @mishanhamon). The PunBot.ipynb file contains the main elements of the chatbot, while the user-functions.py contains additional functions. Note that you would need a telegram chatbot token to use the script. 
 
 The project uses homophone sourcing technique developed by Kamran Janjua (2020, available at https://github.com/kjanjua26/Pyphones/tree/master) and a dataset of English idioms created by zaghloul404 (2023, available at https://github.com/zaghloul404/englishidioms/tree/main) under the open license. 
 
